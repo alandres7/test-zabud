@@ -1,0 +1,4 @@
+adapter:
+    restconsumer:
+        timeout: 5000
+        url: "http://universities.hipolabs.com"
